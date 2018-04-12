@@ -1,0 +1,5 @@
+A=Pradeep
+B=Kumar
+c=Boga
+D=a+b+c
+print(D)
